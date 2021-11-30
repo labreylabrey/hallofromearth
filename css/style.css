@@ -112,9 +112,6 @@ img.ig {
 }
 
 
-
-
-
 /* =================================
   Media Queries 1024px
 ==================================== */
@@ -182,16 +179,6 @@ img.ig {
         width: 500px;
         height: auto;
     }
-    
-    a {
-        text-decoration: underline;
-        color: white;
-    }
-    
-    img.ig {
-        max-width: 5%;
-    }
-
 
 
 }
